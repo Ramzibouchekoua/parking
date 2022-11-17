@@ -1,0 +1,23 @@
+{
+  "Parking": {
+    "description": "Auto imported from components/Parking.vue"
+  },
+  "SomeSeo": {
+    "description": "Auto imported from components/SomeSeo.vue"
+  },
+  "BestPrices": {
+    "description": "Auto imported from components/BestPrices/BestPrices.vue"
+  },
+  "BestPricesParking": {
+    "description": "Auto imported from components/BestPrices/BestPricesParking.vue"
+  },
+  "HeaderBrand": {
+    "description": "Auto imported from components/Header/Brand.vue"
+  },
+  "HeaderChoseLanguage": {
+    "description": "Auto imported from components/Header/ChoseLanguage.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header/index.vue"
+  }
+}
